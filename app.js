@@ -107,7 +107,6 @@ async function hireTeamMember() {
     if (hireMoreMembers_g == "yes") {
         hireTeamMember();
     } else {
-        console.log("team:", employees.toString());
         const html = render(employees);
         fs.writeFileSync(outputPath, html, "utf8");
         return;
