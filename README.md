@@ -37,7 +37,7 @@ Developed the application with the following features:
   * Added the application to the portfolio.
 
 ## Launch
-Inquirer package need to be installed for this app to run. To launch the application :
+Inquirer package should be to be installed for this app to run. To launch the application :
 
 * Clone this repository
 * Issue npm i ain the local repository root, so that all dependencies (inquirer package) are installed
