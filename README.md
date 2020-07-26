@@ -3,7 +3,7 @@
 
 [![picture 2](assets/TPG-thumb.JPG)](https://sskumar4.github.io/TeamProfileGenerator/output/team.html)  
 
-[![video](assets/TeamProfile-Generator.gif)]
+![video](assets/TeamProfile-Generator.gif)
 
 ## Links to sample output of the application and repository:
 * [Output of the Application](https://sskumar4.github.io/TeamProfileGenerator/output/team.html)
