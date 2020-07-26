@@ -1,15 +1,13 @@
-# TeamProfileGenerator
-[![picture 2](assets/TPG-thumb.JPG)](https://sskumar4.github.io/TeamProfileGenerator/output/team.html)  
-
- [![video](TeamProfile-Generator.gif)]
-
-# Links to sample output of the application and repository:
-* [Output of the Application](https://sskumar4.github.io/TeamProfileGenerator/output/team.html)
-* [Repository](https://github.com/sskumar4/TeamProfileGenerator)
-
-
 # Project Name: TeamProfileGenerator
 # Title: My Team Profile
+
+[![picture 2](assets/TPG-thumb.JPG)](https://sskumar4.github.io/TeamProfileGenerator/output/team.html)  
+
+[![video](assets/TeamProfile-Generator.gif)]
+
+## Links to sample output of the application and repository:
+* [Output of the Application](https://sskumar4.github.io/TeamProfileGenerator/output/team.html)
+* [Repository](https://github.com/sskumar4/TeamProfileGenerator)
 
 ## Introduction:  
 Build a Node CLI that takes in information about employees and generates an HTML webpage that displays summaries for each person. The application will prompt the user for information about the team manager and information about the team members. The user can input any number of team members, and they may be a mix of engineers and interns. This application also passes all unit tests. When the user has completed building the team, the application will create an HTML file that displays a formatted team roster based on the information provided by the user.
@@ -39,6 +37,8 @@ Developed the application with the following features:
   * Added the application to the portfolio.
 
 ## Launch
+
+
 
 Launch [Output of the Deployed Application](https://sskumar4.github.io/TeamProfileGenerator/output/team.html). 
 
