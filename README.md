@@ -1,8 +1,8 @@
 # TeamProfileGenerator
-[![picture 2](assets/TPG-thumb.JPG.JPG)](TeamProfileGenerator/output/team.html)  
+[![picture 2](assets/TPG-thumb.JPG)](https://sskumar4.github.io/TeamProfileGenerator/output/team.html)  
 
 # Links to deployed application and repository:
-* [Deployed Application](TeamProfileGenerator/output/team.html)
+* [Output of the Deployed Application](https://sskumar4.github.io/TeamProfileGenerator/output/team.html)
 * [Repository](https://github.com/sskumar4/TeamProfileGenerator)
 
 
