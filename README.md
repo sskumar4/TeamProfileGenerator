@@ -37,10 +37,15 @@ Developed the application with the following features:
   * Added the application to the portfolio.
 
 ## Launch
+Inquirer package need to be installed for this app to run. To launch the application :
+
+* Clone this repository
+* Issue npm i ain the local repository root, so that all dependencies (inquirer package) are installed
+* Launch node app.js and answer all questions
+* Team.html will be generated at the ./output directory
 
 
 
-Launch [Output of the Deployed Application](https://sskumar4.github.io/TeamProfileGenerator/output/team.html). 
 
 
 
