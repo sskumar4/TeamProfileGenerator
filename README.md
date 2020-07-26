@@ -1,12 +1,14 @@
 # TeamProfileGenerator
 [![picture 2](assets/TPG-thumb.JPG)](https://sskumar4.github.io/TeamProfileGenerator/output/team.html)  
 
-# Links to deployed application and repository:
-* [Output of the Deployed Application](https://sskumar4.github.io/TeamProfileGenerator/output/team.html)
+ [![video](TeamProfile-Generator.gif)]
+
+# Links to sample output of the application and repository:
+* [Output of the Application](https://sskumar4.github.io/TeamProfileGenerator/output/team.html)
 * [Repository](https://github.com/sskumar4/TeamProfileGenerator)
 
 
-# Project Name: Team Profile Generator
+# Project Name: TeamProfileGenerator
 # Title: My Team Profile
 
 ## Introduction:  

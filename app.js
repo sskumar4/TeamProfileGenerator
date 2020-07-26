@@ -51,23 +51,23 @@ async function hireTeamMember() {
         } while (promptAgain === true);
 
         const { email } = await inquirer.prompt({
-            message: "Email of Team Member :",
+            message: "Email of Team Member: ",
             name: "email",
         });
         const { role } = await inquirer.prompt({
             type: "list",
-            message: "Role of Team Member :",
+            message: "Role of Team Member: ",
             choices: ["Engineer", "Intern", "Manager"],
             name: "role",
         });
 
         let addlDetailMsg = "";
         if (role === "Engineer") {
-            addlDetailMsg = "GitHub username";
+            addlDetailMsg = "GitHub username: ";
         } else if (role === "Intern") {
-            addlDetailMsg = "school name";
+            addlDetailMsg = "school name: ";
         } else {
-            addlDetailMsg = "office phone number";
+            addlDetailMsg = "office phone number: ";
         }
         const { addlDetail } = await inquirer.prompt({
             message: `Enter team member's ${addlDetailMsg}`,
@@ -76,7 +76,7 @@ async function hireTeamMember() {
 
         const { hireMoreMembers } = await inquirer.prompt({
             type: "list",
-            message: "Hire more Members:",
+            message: "Hire more Members: ",
             choices: ["yes", "no"],
             name: "hireMoreMembers",
         });
