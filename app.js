@@ -26,7 +26,6 @@ async function hireTeamMember() {
             message: "Name of Team Member :",
             name: "name",
         });
-        console.log("NNAME", name);
 
         let promptAgain = false;
 
@@ -49,7 +48,6 @@ async function hireTeamMember() {
                     promptAgain = true;
                 }
             }
-            console.log("id", id);
         } while (promptAgain === true);
 
         const { email } = await inquirer.prompt({
@@ -83,7 +81,6 @@ async function hireTeamMember() {
             name: "hireMoreMembers",
         });
         hireMoreMembers_g = hireMoreMembers;
-        console.log("hiremoremembers", hireMoreMembers);
         switch (role) {
             case "Manager":
                 if (managersAdded < 1) {
@@ -103,7 +100,6 @@ async function hireTeamMember() {
     } catch (err) {
         console.log(err);
     }
-    console.log("hiremoremembers", hireMoreMembers_g);
     if (hireMoreMembers_g == "yes") {
         hireTeamMember();
     } else {
