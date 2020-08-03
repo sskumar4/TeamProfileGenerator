@@ -1,21 +1,34 @@
+<!-- vscode-markdown-toc -->
+* 1. [Links to sample output of the application and repository:](#Linkstosampleoutputoftheapplicationandrepository:)
+* 2. [Introduction](#Introduction)
+* 3. [Technologies](#Technologies)
+* 4. [Features](#Features)
+* 5. [Launch](#Launch)
+
+<!-- vscode-markdown-toc-config
+	numbering=true
+	autoSave=true
+	/vscode-markdown-toc-config -->
+<!-- /vscode-markdown-toc -->
 # Project Name: TeamProfileGenerator
 # Title: My Team Profile
 
 [![picture 2](assets/TPG-thumb.JPG)](https://sskumar4.github.io/TeamProfileGenerator/output/team.html)  
 
-![video](assets/TeamProfile-Generator.gif)
+![video](assets/TeamProfileGenerator-Final.gif)
 
-## Links to sample output of the application and repository:
+##  1. <a name='Linkstosampleoutputoftheapplicationandrepository:'></a>Links to sample output of the application and repository:
 * [Output of the Application](https://sskumar4.github.io/TeamProfileGenerator/output/team.html)
 * [Repository](https://github.com/sskumar4/TeamProfileGenerator)
 
-## Introduction:  
+
+##  2. <a name='Introduction'></a>Introduction  
 Build a Node CLI that takes in information about employees and generates an HTML webpage that displays summaries for each person. The application will prompt the user for information about the team manager and information about the team members. The user can input any number of team members, and they may be a mix of engineers and interns. This application also passes all unit tests. When the user has completed building the team, the application will create an HTML file that displays a formatted team roster based on the information provided by the user.
 
-## Technologies: 
+##  3. <a name='Technologies'></a>Technologies 
 HTML, Bootstrap, Javascript 
 
-## Features
+##  4. <a name='Features'></a>Features
 Files
 HTML: main.html, engineer.html, intern.html, manager.html, teamhtml, 
 Javascript: app.js, Employee.js, Engineer.js, htmlRenderer.js, Intern.js, Manager.js
@@ -36,7 +49,7 @@ Developed the application with the following features:
   * Used validation to ensure that the information provided is in the proper expected format.
   * Added the application to the portfolio.
 
-## Launch
+##  5. <a name='Launch'></a>Launch
 Inquirer package should be installed for this app to run. To launch the application :
 
 * Clone this repository
