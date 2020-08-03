@@ -1,5 +1,11 @@
+[![picture 2](assets/TPG-thumb.JPG)](https://sskumar4.github.io/TeamProfileGenerator/output/team.html)  
+
+![video](assets/TeamProfileGenerator-Final.gif)
+
+Table of Contents
+
 <!-- vscode-markdown-toc -->
-* 1. [Links to sample output of the application and repository:](#Linkstosampleoutputoftheapplicationandrepository:)
+* 1. [Links to sample output of the application and repository:](#Linkstosampleoutputoftheapplicationandrepository)
 * 2. [Introduction](#Introduction)
 * 3. [Technologies](#Technologies)
 * 4. [Features](#Features)
@@ -13,11 +19,8 @@
 # Project Name: TeamProfileGenerator
 # Title: My Team Profile
 
-[![picture 2](assets/TPG-thumb.JPG)](https://sskumar4.github.io/TeamProfileGenerator/output/team.html)  
 
-![video](assets/TeamProfileGenerator-Final.gif)
-
-##  1. <a name='Linkstosampleoutputoftheapplicationandrepository:'></a>Links to sample output of the application and repository:
+##  1. <a name='Linkstosampleoutputoftheapplicationandrepository:'></a>Links to sample output of the application and repository
 * [Output of the Application](https://sskumar4.github.io/TeamProfileGenerator/output/team.html)
 * [Repository](https://github.com/sskumar4/TeamProfileGenerator)
 
