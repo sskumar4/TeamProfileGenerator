@@ -1,3 +1,6 @@
+## Project Name: TeamProfileGenerator
+## Title: My Team Profile
+
 [![picture 2](assets/TPG-thumb.JPG)](https://sskumar4.github.io/TeamProfileGenerator/output/team.html)  
 
 ![video](assets/TeamProfileGenerator-Final.gif)
@@ -16,9 +19,6 @@ Table of Contents
 	autoSave=true
 	/vscode-markdown-toc-config -->
 <!-- /vscode-markdown-toc -->
-# Project Name: TeamProfileGenerator
-# Title: My Team Profile
-
 
 ##  1. <a name='Linkstosampleoutputoftheapplicationandrepository:'></a>Links to sample output of the application and repository
 * [Output of the Application](https://sskumar4.github.io/TeamProfileGenerator/output/team.html)
